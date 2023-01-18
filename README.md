@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangithub752000&show_icons=true&locale=en" alt="pawangithub752000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawangithub752000&" alt="pawangithub752000" /></p>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pawangithub752000=react&line_height=40&hide=css"/> </a>
