@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://63af14bb47418e08092cbab7--pawanbtechcse.netlify.app/](https://63af14bb47418e08092cbab7--pawanbtechcse.netlify.app/)
 
-- 💬 Ask me about **React js, Javascript,DSA,Nodejs**
+- 💬 Ask me about **React js, Javascript, DSA, Node js, MongoDb, Express js, Html, Css**
 
 - 📫 How to reach me **pawanbtechcse123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC](https://drive.google.com/drive/u/0/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC)
+- 📄 My Updated Resume [https://drive.google.com/drive/u/0/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC](https://drive.google.com/drive/u/0/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
