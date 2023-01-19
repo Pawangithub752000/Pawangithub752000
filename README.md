@@ -2,12 +2,8 @@
 <h3 align="center">An Aspiring Full Stack Web Developer From Chandigarh Punjab India</h3>
 
 <h4> A learner who is looking forward to work in a competitive world and to be part of the continuous growth of an organization by learning, gaining new skills & techniques with at most dedication for the organizational & personal growth. </h4>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangithub752000&label=Profile%20views&color=0e75b6&style=flat" alt="pawangithub752000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangithub752000" alt="pawangithub752000" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pawanku63639567" target="blank"><img src="https://img.shields.io/twitter/follow/pawanku63639567?logo=twitter&style=for-the-badge" alt="pawanku63639567" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -15,6 +11,12 @@
 - 💬 Ask me about **Development , Problem Solving In JS**
 
 - 📫 How to reach me **pawanbtechcse752000@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangithub752000&label=Profile%20views&color=0e75b6&style=flat" alt="pawangithub752000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangithub752000" alt="pawangithub752000" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangithub752000&show_icons=true&locale=en" alt="pawangithub752000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawangithub752000&" alt="pawangithub752000" /></p>
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pawangithub752000=react&line_height=40&hide=css"/> </a>
+ 
